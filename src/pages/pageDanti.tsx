@@ -48,6 +48,9 @@ export const PageDanti = () => {
       <p>
         per splittare due commit diverse, eseguire un git rebase e poi un git reset.
       </p>
+      <p>
+        per riavvolgere il tempo, eseguire una git reset --hard
+      </p>
     </div>
   );
 };
