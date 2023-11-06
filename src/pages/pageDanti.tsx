@@ -1,3 +1,4 @@
+import { DantiButton } from "../components/danti/DantiButton";
 import { Logo } from "../components/danti/Logo";
 
 export const PageDanti = () => {
@@ -43,6 +44,7 @@ export const PageDanti = () => {
       Unire tanti commit in un unico commit?
       Eseguire uno squash.
       </p>
+      <DantiButton></DantiButton>
     </div>
   );
 };
