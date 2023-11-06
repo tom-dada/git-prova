@@ -39,6 +39,10 @@ export const PageDanti = () => {
       Esiste un modo per unire tutti questi commit in un unico commit quando si esegue il merge su master?
       Si, con uno squash. Si può fare anche con una pull request.
       </p>
+      <p>
+      Unire tanti commit in un unico commit?
+      Eseguire uno squash.
+      </p>
     </div>
   );
 };
