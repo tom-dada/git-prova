@@ -3,6 +3,7 @@ import PageRoot from "../pages/pageRoot";
 import App from "../App";
 import PageError from "../pages/pageError";
 import PageReverberi from "../pages/pageReverberi";
+import { PageDanti } from "../pages/pageDanti";
 
 export const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ export const router = createBrowserRouter([
         path: "reverberi",
         element: <PageReverberi />,
       },
+      {
+        path: "danti",
+        element: <PageDanti />,
+      }
     ],
   },
 ]);
