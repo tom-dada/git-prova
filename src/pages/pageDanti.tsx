@@ -17,6 +17,19 @@ export const PageDanti = () => {
       <p>
         Mozzarelline Fritte
       </p>
+      <p>
+        Paccheri al sugo
+      </p>
+      <p>
+        Salsiccia e peperoni
+      </p>
+      <p>
+        Cheesecake al limone
+      </p>
+      <p>
+        Unire tanti commit in un unico commit?
+        Eseguire uno squash.
+      </p>
     </div>
   );
 };
