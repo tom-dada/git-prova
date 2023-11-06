@@ -45,6 +45,9 @@ export const PageDanti = () => {
       Eseguire uno squash.
       </p>
       <DantiButton></DantiButton>
+      <p>
+        per splittare due commit diverse, eseguire un git rebase e poi un git reset.
+      </p>
     </div>
   );
 };
