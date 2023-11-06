@@ -14,6 +14,18 @@ export const PageDanti = () => {
         Come faccio a portare le modifiche fatte su master sulla mia branch dedicata?
         Devo Fare una git merge.
       </p>
+      <p>
+        Mozzarelline Fritte
+      </p>
+      <p>
+        Paccheri al sugo
+      </p>
+      <p>
+        Salsiccia e peperoni
+      </p>
+      <p>
+        Cheesecake al limone
+      </p>
     </div>
   );
 };
