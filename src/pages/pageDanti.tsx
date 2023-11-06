@@ -51,6 +51,10 @@ export const PageDanti = () => {
       <p>
         per riavvolgere il tempo, eseguire una git reset --hard
       </p>
+      <p>
+        per mettere in pausa il lavoro su una branch e riprenderlo in un secondo momento,
+        utilizzare il comando git stash
+      </p>
     </div>
   );
 };
