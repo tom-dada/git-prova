@@ -26,6 +26,10 @@ export const PageDanti = () => {
       <p>
         Cheesecake al limone
       </p>
+      <p>
+        Unire tanti commit in un unico commit?
+        Eseguire uno squash.
+      </p>
     </div>
   );
 };
