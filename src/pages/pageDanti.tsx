@@ -17,6 +17,15 @@ export const PageDanti = () => {
       <p>
         Mozzarelline Fritte
       </p>
+      <p>
+        Paccheri al sugo
+      </p>
+      <p>
+        Salsiccia e peperoni
+      </p>
+      <p>
+        Cheesecake al limone
+      </p>
     </div>
   );
 };
